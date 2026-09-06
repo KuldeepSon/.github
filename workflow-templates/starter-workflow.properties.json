@@ -1,7 +1,7 @@
 {
     "name": "KuldeepSon workflow",
     "description": "KuldeepSon CI workflow template.",
-    "iconName": "octicon sparkles-fill-24",
+    "iconName": "octicon smiley",
     "categories": [
         "Go"
     ]
