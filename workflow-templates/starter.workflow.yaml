@@ -1,0 +1,12 @@
+name: Starter workflow
+on:
+  push:
+    branches: [$default-branch]
+  pull-request:
+    branches: [$default-branch]
+jobs:
+  echo-job:
+    runs-on: self-hosted
+    steps:
+    - name: print job
+      run: echo 'WELCOME TO KuldeepSon github repository'
